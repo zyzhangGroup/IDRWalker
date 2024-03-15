@@ -1,0 +1,14 @@
+[project]
+name = "IDRWalker"
+version = "0.0.1"
+dependencies = [
+    "numpy",
+    "kearsley",
+    "tqdm"
+]
+
+[tool.setuptools]
+include-package-data = true
+
+[tool.setuptools.packages.find]
+where = ["."]
