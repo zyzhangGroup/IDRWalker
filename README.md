@@ -19,7 +19,7 @@ First import the package:
 from IDRWalker import *
 ```
 
-Read the PDB files with missing regions and the FASTA files with full-length sequences, each file should contain information of only one chain.
+Load the PDB files with missing regions and the FASTA files containing full-length sequences, each file should contain information of only one chain.
 
 ```python
 chainA = Chain(seq='A.fasta', PDB='A.pdb', chainID='A')
