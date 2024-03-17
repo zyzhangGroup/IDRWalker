@@ -1,6 +1,6 @@
 # IDRWalker
 
-A tool for complementing missing parts in proteins based on random walk.
+A tool for complementing missing regions in proteins based on random walk.
 
 ## Installation
 
