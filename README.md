@@ -7,8 +7,7 @@ A tool for complementing missing regions in proteins based on random walk.
 Clone the repository, then build and install:
 
 ```bash
-python -m build --sdist
-python -m pip install dist/IDRWalker-0.0.1.tar.gz
+pip install .
 ```
 
 ## Usage
